@@ -1,0 +1,1 @@
+import { Teachers } from "@prisma/client";
